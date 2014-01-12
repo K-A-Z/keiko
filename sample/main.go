@@ -1,7 +1,7 @@
 package main
 
 import (
-	"keiko"
+	"github.com/K-A-Z/keiko"
 )
 
 func main() {
